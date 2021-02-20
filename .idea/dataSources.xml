@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="data.sqlite" single-connection="true" uuid="ae94034a-8eab-4936-b9c0-3b2f86de3ca5">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:data.sqlite</jdbc-url>
+      <working-dir>D:\Pycharm\flaskProject</working-dir>
+      <driver-properties>
+        <property name="check_same_thread" value="False" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
